@@ -15,7 +15,7 @@ des = ComputeGF('circle.png',0);
 ```
 will compute local GF-HoG descriptors for a sketch. If you input an image, change the second argument to 1.
 
-This implementation is follow the original C code by Rui Hu and Stuart James ([project page](http://personal.ee.surrey.ac.uk/Personal/R.Hu/SBIR.html)) with several improvements that achieves 16.6% mAP on the Flickr15K benchmark (18.2% mAP with Inverted Index), as reported in Fig. 5 in our paper.
+This implementation follows the original C code by Rui Hu and Stuart James ([project page](http://personal.ee.surrey.ac.uk/Personal/R.Hu/SBIR.html)) with several improvements that achieves 16.6% mAP on the Flickr15K benchmark (18.2% mAP with Inverted Index), as reported in Fig. 5 in our paper.
 
 ### Color GF-HoG implementation
 Original | Color GF-HoG visualisation
