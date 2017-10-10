@@ -21,8 +21,7 @@ This implementation is follow the original C code by Rui Hu and Stuart James ([p
 Original | Color GF-HoG visualisation
 :---:| :---:
 <kbd><img src='color/sunrise_sketch.png' height="200px"/></kbd> | <img src='aux/sunrise_sketch_gf.png' height="200px"/>
-
-<kbd><img src='color/underground_sketch.png' height="200px"/></kbd> |<img src='aux/underground_sketch_gf.png' height="200px"/>
+<kbd><img src='color/underground_sketch.png' height="200px"/></kbd> | <img src='aux/underground_sketch_gf.png' height="200px"/>
 
 <br>
 
