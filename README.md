@@ -2,13 +2,20 @@
 Matlab implementation for Color Gradient Field Histogram of Oriented Gradient (Color GF-HoG) as described in 
 the ICCV ws 2015 paper [Scalable Sketch-based Image Retrieval using Color Gradient Features](http://openaccess.thecvf.com/content_iccv_2015_workshops/w27/papers/Bui_Scalable_Sketch-Based_Image_ICCV_2015_paper.pdf) .
 ## GF-HoG implementation
-<img src="BW/circle.png" align="left" height="200px"/> <img src="aux/circle_gf.png" align="right" height="200px"/>
+Original | GF-HoG
+:---:| :---:
+<kbd><img src="BW/circle.png" height="200px"/></kbd> | <img src="aux/circle_gf.png" height="200px"/>
+<img src="BW/moon.jpg" height="200px"/> | <img src="aux/moon_gf.png" height="200px"/>
+
+<!---<img src="BW/circle.png" align="left" height="200px"/> <img src="aux/circle_gf.png" align="right" height="200px"/>
 
 <br><br><br><br>
 
 <img src="BW/moon.jpg" align="left" height="200px"/> <img src="aux/moon_gf.png" align="right" height="200px"/>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
+-->
+<br>
 
 If you work on black-white sketches only, please check [example.m](BW/example.m) under the BW folder:
 ```
