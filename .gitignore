@@ -1,0 +1,9 @@
+*.txt
+*.log
+*.pyc
+*.mat
+*~
+data/*
+db*
+logs/*
+
