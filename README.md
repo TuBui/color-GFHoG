@@ -7,14 +7,6 @@ Original | GF-HoG
 <kbd><img src="BW/circle.png" height="200px"/></kbd> | <img src="aux/circle_gf.png" height="200px"/>
 <img src="BW/moon.jpg" height="200px"/> | <img src="aux/moon_gf.png" height="200px"/>
 
-<!---<img src="BW/circle.png" align="left" height="200px"/> <img src="aux/circle_gf.png" align="right" height="200px"/>
-
-<br><br><br><br>
-
-<img src="BW/moon.jpg" align="left" height="200px"/> <img src="aux/moon_gf.png" align="right" height="200px"/>
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
--->
 <br>
 
 If you work on black-white sketches only, please check [example.m](BW/example.m) under the BW folder:
@@ -26,13 +18,13 @@ will compute local GF-HoG descriptors for a sketch. If you input an image, chang
 This implementation is follow the original C code by Rui Hu and Stuart James ([project page](http://personal.ee.surrey.ac.uk/Personal/R.Hu/SBIR.html)) with several improvements that achieves 16.6% mAP on the Flickr15K benchmark (18.2% mAP with Inverted Index), as reported in Fig. 5 in our paper.
 
 ### Color GF-HoG implementation
-<img src='color/sunrise_sketch.png' align="left" height="200px"> <img src='aux/sunrise_sketch_gf.png' align="left" height="200px">
+Original | Color GF-HoG visualisation
+:---:| :---:
+<kbd><img src='color/sunrise_sketch.png' height="200px"/></kbd> | <img src='aux/sunrise_sketch_gf.png' height="200px"/>
+
+<kbd><img src='color/underground_sketch.png' height="200px"/></kbd> |<img src='aux/underground_sketch_gf.png' height="200px"/>
 
 <br>
-
-<img src='color/underground_sketch.png' align="left" height="200px"> <img src='aux/underground_sketch_gf.png' align="left" height="200px">
-
-<br><br>
 
 If you work on colour sketches, please check [example.m](color/example.m) under the color folder:
 ```
