@@ -4,11 +4,11 @@ the ICCV ws 2015 paper [Scalable Sketch-based Image Retrieval using Color Gradie
 ## GF-HoG implementation
 <img src="BW/circle.png" align="left" height="200px"/> <img src="aux/circle_gf.png" align="right" height="200px"/>
 
-<br>
+<br><br><br><br>
 
 <img src="BW/moon.jpg" align="left" height="200px"/> <img src="aux/moon_gf.png" align="right" height="200px"/>
 
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 If you work on black-white sketches only, please check [example.m](BW/example.m) under the BW folder:
 ```
