@@ -34,6 +34,9 @@ will compute local shape and color descriptors for a sketch. For image, change t
 **Difference from the paper**
 In the paper, the luminance channel (L*) is passed through a double sigmoid function to separate black and white from the rest. Our implementation currently employs L* directly. We will implement this functionality in the next update.
 
+## Demo
+[![Youtube demo](http://img.youtube.com/vi/XSIpGCXgkLM/0.jpg)](http://www.youtube.com/watch?v=XSIpGCXgkLM)
+
 ## Reference
 ```
 @inproceedings{bui2015scalable,
